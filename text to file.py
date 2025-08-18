@@ -99,7 +99,7 @@ def process_cutting_files(file_paths):
         "CROTCH LINERS", "FT,BK", "WB BIAS", "FT/BK/CROTCHES", 
         "BODY,FRONT", "WAIST BAND (STRT)", "LEG STRAIGHT", 
         "FRONT, CRT LINER", "BO", "BODY,FRONT,CROTCH LINER", 
-        "POCKET", "COLRET", "FLY BINDING"
+        "POCKET", "COLRET", "FLY BINDING", "FT2", "T2", "PANEL 1", "PANEL 2"
     ]
 
     for file_path in file_paths:
